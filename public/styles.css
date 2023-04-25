@@ -8,6 +8,7 @@ html {
 }
 body {
   background: #eee;
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   padding: 0 16px;
 }
 
@@ -28,7 +29,7 @@ footer {
   position: absolute;
   text-align: center;
   bottom: 0;
-  width: 100%;
+  width: 90%;
   height: 2.5rem;
 }
 
